@@ -9,3 +9,6 @@ md "Maranhao" "Piaui" "Ceara" "Rio Grande do norte" "Paraiba" "Pernambuco" "Alag
 cd ..
 cd "Norte"
 md "Acre" "Amapa" "Amazonas" "Para" "Rondonia" "Roraima" "Tocantins"
+cd ..
+cd "sul"
+md "Parana" "Santa Catarina" "Rio Grande do Sul"
