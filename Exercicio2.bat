@@ -12,3 +12,6 @@ md "Acre" "Amapa" "Amazonas" "Para" "Rondonia" "Roraima" "Tocantins"
 cd ..
 cd "sul"
 md "Parana" "Santa Catarina" "Rio Grande do Sul"
+cd ..
+cd "sudeste"
+md "Sao Paulo" "Rio de Janeiro" "Espirito Santo" "Minas Gerais"
